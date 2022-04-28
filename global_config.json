@@ -339,7 +339,7 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/AxisRay/redpill-load.git",
         "branch": "develop"
       }
     },
